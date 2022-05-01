@@ -1,0 +1,162 @@
+{
+  "Header": {
+    "title": "Merhaba",
+    "paragraph": "Yagız Dijital Dönüşüm Yazılım A.Ş. Web Sitesine Hoş Geldiniz..."
+  },
+  "About": {
+    "paragraph": "2021'de kurulan şirketimiz Blockchain teknolojileri üzerine çalışmalar yürütmektedir. Peki nedir Blockchain? İşler, bilgi üzerinden ilerler. Bilgi ne kadar hızlı ve doğru bir şekilde alınırsa o kadar iyidir. Blockchain, yalnızca izni olan ağ üyeleri tarafından erişilebilen ve üzerinde değişiklik yapılamayan bir büyük defterde depolanan anlık, paylaşılan ve tamamen şeffaf bilgiler sağladığı için bilginin sunulması için idealdir. Bir blockchain ağı siparişleri, ödemeleri, hesapları, üretimi ve çok daha fazlasını takip edebilir. Üyeler, gerçeğin tek bir görünümünü paylaştığından bir işlemin baştan sona tüm ayrıntılarını görebilirsiniz; böylece yeni verimliliklerin ve fırsatların yanı sıra daha fazla güvene sahip olursunuz.",
+    "Why": [
+      "Adalet Bakanlığının Adliye çalışmaları",
+      "İhale İşlemleri",
+      "Savunma Sanayi",
+      "Tarım Alanında Vazgeçilmez Bir Teknoloji"
+    ],
+    "Why2": [
+      "Dijital Ortamda Ve Otonom Takip",
+      "İhalelerin Artık Sanal Ortamda Yapılması",
+      "Tapu Ve Noter işlemleri",
+      "Ve Daha Bir Çok Proje.."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Özel Yazılım",
+      "text": "Paket Programlar ile istediği proje yönetimini sağlayaman firmalar için özel olarak terzi dikimi yazılımlar geliştiriyoruz. "
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Web Tasarım",
+      "text": "Dijital dünyanın trendlerini yakından takip ediyor; modern tasarımlarla talep ve isteklerinize yönelik kullanıcı deneyimi odaklı tasarımlar çıkarıyoruz."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Mobil Uygulama",
+      "text": "Hayal ettiğiniz projeleri mobil uygulama olarak hayata geçiriyoruz. Dijital dünyanın trendleri doğrultusunda kullanıcı davranışlarına uygun uygulama ara yüzleriyle kullanıcılara son derece kullanışlı uygulamalar sunuyoruz."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Start-Up Çözümleri",
+      "text": "Girişimlerinizi ihtiyaç duydukları alanlarda destekleyerek hızla büyümelerini sağlıyoruz. Girişimcilerin fikirlerine veya şirketlerine yenilikçi stratejiler geliştirmek için farklı alanlarda çözümler üretiyoruz."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Veri Madenciliği Çözümleri",
+      "text": "İnternette bulunan milyonlarca bilgiden işe yarayanı bulmak haftalarınızı harcar. Veri madenciliği hizmetimiz ile haftalar sürecek olan bilgiyi bulma, işleme ve değerlendirme sürecini biz yapıyoruz."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Veritabanı Yazılımları",
+      "text": "Bilgisayar sistemlerinin altyapısını oluşturan veritabanı ile ulaşılması ve depolanması zor olan bilgiye erişim kolaylığı sağlar. Firmanızın veritabanı yazılımının kurulumu ve desteği konularında yanınızdayız."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/blk3.png",
+      "text": "\"Bilgilendirilmiş her kişinin Bitcoin hakkında bilgi sahibi olması gerekir çünkü bu dünyanın en önemli gelişmelerinden biri olabilir.\"",
+      "name": "Leon Louw"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Contact": {
+    "address": "Kartal/İstanbul ",
+    "phone": "0216 000 00 00",
+    "email": "info@yagizbilisim.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Güvenli Altyapı",
+      "text": "Blok zincirleri asla değiştirilemez!"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Şeffaf İşlemler",
+      "text": "Blockchain altyapısından dolayı şeffaf işlemler sunar."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Hız",
+      "text": "Blockchain yapısı gereği performansı yüksek ve hızlıdır."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Saklılık",
+      "text": "Blockchain saklılık içerisinde varlığını sürdürür."
+    }
+  ]
+}

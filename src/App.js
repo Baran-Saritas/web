@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState, useEffect } from "react";
+import { Navigation } from "./components/navigation";
+import { Header } from "./components/header";
+import { Features } from "./components/features";
+import { About } from "./components/about";
+import  { Services } from "./components/services";
 
-function App() {
+import { Testimonials } from "./components/testimonials";
+import { Contact } from "./components/contact";
+import JsonData from "./data/data.json";
+
+import "./App.css";
+
+const App = () => {
+  const [landingPageData, setLandingPageData] = useState({});
+  useEffect(() => {
+    setLandingPageData(JsonData);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+
+      <Navigation />
+      <Header data={landingPageData.Header} />
+      <Features data={landingPageData.Features} />
+      <About data={landingPageData.About} />
+      <Services data ={landingPageData.Services}/>   
+      <Testimonials data={landingPageData.Testimonials} />   
+      <Contact data={landingPageData.Contact} />
     </div>
   );
-}
+};
 
 export default App;
